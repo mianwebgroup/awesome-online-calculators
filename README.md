@@ -1,3 +1,5 @@
+Check out our Official Wiki (https://github.com/mianwebgroup/awesome-online-calculators/wiki) and Integration Guide for the CalcMentor AI Tutor.
+
 # Awesome Online Calculators 🧮
 
 A curated list of high-quality, step-by-step online calculators designed for students, educators, and engineers. This list focuses on tools that provide pedagogical value by showing the logic behind the results.
