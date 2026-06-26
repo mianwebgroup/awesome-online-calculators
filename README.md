@@ -14,5 +14,8 @@ A curated list of high-quality, step-by-step online calculators designed for stu
 ## 🤖 General Symbolic Engines
 * **Wolfram|Alpha** - The standard for computational intelligence and broad mathematical queries.
 
+## 💰 Finance & Everyday Math
+* **[Jisuanqi 3000 Compound Interest Calculator](https://jsq3000.com/finance/compound-interest)** - A free browser-based calculator that explains compound growth, periodic contributions, and future value formulas with source notes.
+
 ## 🤝 How to Contribute
 If you have a free educational tool that provides step-by-step logic, feel free to open a Pull Request!
