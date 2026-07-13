@@ -14,5 +14,8 @@ A curated list of high-quality, step-by-step online calculators designed for stu
 ## 🤖 General Symbolic Engines
 * **Wolfram|Alpha** - The standard for computational intelligence and broad mathematical queries.
 
+## 🏗️ Engineering & Construction
+* **[Concrete Calculator Hub](https://concreteestimatorhub.com/)** - Free concrete calculators for volume, slabs, footings, post holes, bag counts, ready-mix vs bags, and material cost planning, with formulas and project-planning guides.
+
 ## 🤝 How to Contribute
 If you have a free educational tool that provides step-by-step logic, feel free to open a Pull Request!
