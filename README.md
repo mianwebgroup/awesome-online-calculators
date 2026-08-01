@@ -14,5 +14,10 @@ A curated list of high-quality, step-by-step online calculators designed for stu
 ## 🤖 General Symbolic Engines
 * **Wolfram|Alpha** - The standard for computational intelligence and broad mathematical queries.
 
+## 🔢 Specialized & Other Calculators
+* **[Gematria Calculator](https://gematriacalculator.pro/)** - A comprehensive Gematria numerology calculator supporting Hebrew, Greek, and English Gematria methods. Instantly reveals the numerical value of any word or phrase across multiple calculation systems.
+* **[Code Usage Calculator](https://codeusagecalc.com/)** - Analyze any code snippet to show usage frequency of keywords, functions, and syntax patterns. Great for learning which language features are most commonly used in practice.
+
+
 ## 🤝 How to Contribute
 If you have a free educational tool that provides step-by-step logic, feel free to open a Pull Request!
