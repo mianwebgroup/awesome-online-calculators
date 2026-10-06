@@ -11,6 +11,9 @@ A curated list of high-quality, step-by-step online calculators designed for stu
 ## 📝 Mathematical Writing & Formatting
 * **[LaTeX Equation Editor](https://www.derivativecalculus.com/latex-editor.html)** - A clean, user-friendly interface for building complex mathematical formulas in LaTeX, perfect for academic papers and forum discussions.
 
+## 📊 Applied Percentages and Ratios
+* **[FollowerKaufen.ch Engagement-Rate Calculator](https://followerkaufen.ch/tools/engagement-rate)** - Free Swiss-German browser calculator for (likes + comments) / followers, reach or views × 100, with a formula, worked example and explanation of why denominators are not directly comparable.
+
 ## 🤖 General Symbolic Engines
 * **Wolfram|Alpha** - The standard for computational intelligence and broad mathematical queries.
 
