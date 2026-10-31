@@ -5,6 +5,7 @@ Check out our Official Wiki (https://github.com/mianwebgroup/awesome-online-calc
 A curated list of high-quality, step-by-step online calculators designed for students, educators, and engineers. This list focuses on tools that provide pedagogical value by showing the logic behind the results.
 
 ## 📐 Calculus & Analysis
+* **[Derivative Calculator AI](https://derivativecalculatorai.com/)** - Free derivative, integral and limit calculator with step-by-step solutions, an answer-checking mode and practice problems (English, Spanish, Portuguese).
 * **[Derivative Calculus Solver](https://www.derivativecalculus.com/)** - A specialized tool for differentiation that focuses on "Outside-In" logic. It provides clear step-by-step breakdowns using $u$-substitution for the Chain Rule, Product Rule, and Quotient Rule.
 * **[Integral Calculator](https://www.integral-calculator.com/)** - A widely used tool for computing indefinite and definite integrals with steps.
 
